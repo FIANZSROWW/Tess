@@ -1,0 +1,20 @@
+{
+    "users": [
+
+        {
+            "username": "fianz",
+            "password": "16",
+            "role": "admin"       
+        }, 
+        {
+            "username": "free",
+            "password": "free",
+            "role": "Subscribe Fianzsrow"       
+        }, 
+        {
+            "username": "fianzvip",
+            "password": "vip",
+            "role": "vvip"       
+        }
+    ]
+}
